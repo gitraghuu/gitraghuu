@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gitraghuu
 - 👀 I’m interested in using diffrent type of OS
-- 🌱 I’m currently learning about different typ eof OS and reviewing about it
+- 🌱 I’m currently learning about different type of OS and reviewing about it
 - 💞️ I’m looking to collaborate on Open Source 
 - 📫 How to reach me 📧 Mail me on raghu.educate@gmail.com
 
